@@ -54,8 +54,8 @@ So I do my best in every specialtation area. My programming languages are Python
 
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
-<a href="https://github.com/z44o"><img alt="z44d's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
-<a href="https://github.com/z44o"><img alt="z44d's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DevZ44d&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
+<a href="https://github.com/v505k"><img alt="v505k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
+<a href="https://github.com/v505k"><img alt="z44d's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=v505k&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
 
