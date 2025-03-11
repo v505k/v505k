@@ -7,14 +7,14 @@ You can click the Preview link to take a look at your changes.
 ```csharp
 My Profile
 -------------------------------
-Name: z44o.
+Name: Negan.
 Gender: Male.
-Location: Egypt .
+Location: SYR 🇸🇾 .
 Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
 Hobbies: Gaming, Coding while I am listening music 🎶.
-Languages: Python , C++ .
+Languages: Swift , Object-C .
 Learning: Machine Learning , Artificial Intelligence .
-Telegram: @DevZ44d.
+Telegram: @v505k .
 ```
 <br>
      
@@ -22,7 +22,7 @@ Telegram: @DevZ44d.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify"><b><a href = "https://z44o.github.io" ><h1>Z44d</h1></a> from Egypt who loves to work with Python and C++ , Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots and Library. Nowdays, I focus on Computer Science.
+<p align = "justify"><b><a href = "https://v505k.github.io" ><h1>Z44d</h1></a> from SYR who loves to work with Object-C and Swift , Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots and Library. Nowdays, I focus on Computer Science.
 So I do my best in every specialtation area. My programming languages are Python, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b>
 <br>
 
