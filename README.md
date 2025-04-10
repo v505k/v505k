@@ -22,7 +22,7 @@ Telegram: @v505k .
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify"><b><a href = "https://v505k.github.io" ><h1>Z44d</h1></a> from SYR who loves to work with Object-C and Swift , Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots and Library. Nowdays, I focus on Computer Science.
+<p align = "justify"><b><a href = "https://v505k.github.io" ><h1>v505k</h1></a> from SYR who loves to work with Object-C and Swift , Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots and Library. Nowdays, I focus on Computer Science.
 So I do my best in every specialtation area. My programming languages are Python, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b>
 <br>
 
@@ -54,8 +54,8 @@ So I do my best in every specialtation area. My programming languages are Python
 
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
-<a href="https://github.com/v505k"><img alt="v505k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
-<a href="https://github.com/v505k"><img alt="z44d's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=v505k&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
+<a href="https://github.com/v505k"><img alt="v505k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v505k&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
+<a href="https://github.com/v505k"><img alt="v505k's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=v505k&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
 
